@@ -13,3 +13,7 @@
 + Ports for 2 I2C sensors ( BMP280 )
 
 
+### schematic
+
+![photo](/images/schematic.png "Back Render")
+
